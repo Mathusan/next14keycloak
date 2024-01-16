@@ -1,0 +1,15 @@
+html,
+body{
+  margin: 0;
+  font-family: 'Lexend', Tahoma, Geneva, Verdana, sans-serif;
+  background: #FBFBFE;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
